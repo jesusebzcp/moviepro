@@ -1,0 +1,1 @@
+export {ListMovieSimilar} from './listMovieSimilar';

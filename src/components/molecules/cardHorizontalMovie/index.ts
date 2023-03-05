@@ -1,0 +1,1 @@
+export {CardHorizontalMovie} from './cardHorizontalMovie';
